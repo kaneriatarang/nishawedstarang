@@ -1,0 +1,16 @@
+{
+  "name": "Nisha_Version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d NishaWedsTarang"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://kaneriatarang.github.io/nishawedstarang",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
